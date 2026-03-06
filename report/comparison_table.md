@@ -1,0 +1,9 @@
+    dataset      model  mAP@0.5  precision  recall  speed(imgs/sec)  training_time_x  training_time_y
+oxford_pets fasterrcnn      0.0        0.0     0.0        51.445105              NaN       586.173381
+oxford_pets       yolo      0.0        0.0     0.0       107.027664              NaN       234.555537
+ penn_fudan fasterrcnn      0.0        0.0     0.0        22.965374              NaN              NaN
+ penn_fudan       yolo      0.0        0.0     0.0        45.420045              NaN              NaN
+oxford_pets fasterrcnn      0.0        0.0     0.0        39.053260       649.341534       586.173381
+oxford_pets       yolo      0.0        0.0     0.0       108.870922       233.215086       234.555537
+ penn_fudan fasterrcnn      0.0        0.0     0.0        22.965374        58.217231              NaN
+ penn_fudan       yolo      0.0        0.0     0.0        45.420045       101.805395              NaN

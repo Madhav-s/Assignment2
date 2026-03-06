@@ -1,0 +1,6 @@
+names:
+- person
+path: C:\Users\singhm\Assignment2\datasets\penn_fudan_split
+test: test/images
+train: train/images
+val: val/images

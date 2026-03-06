@@ -1,0 +1,13 @@
+names:
+- Abyssinian
+- Bengal
+- Birman
+- Bombay
+- British
+- Egyptian
+- Maine
+- Persian
+path: C:\Users\singhm\Assignment2\datasets\oxford_pets_subset_split
+test: test/images
+train: train/images
+val: val/images
